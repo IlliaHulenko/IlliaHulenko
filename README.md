@@ -1,13 +1,12 @@
 # <img src="https://media.giphy.com/media/ymwg2hvAKuuuiDN1x3/giphy.gif" width="100" />, stranger. Thanks for visiting my GitHub page🤩
 
-<div class="row" style="display:flex">
+<div style="display:flex; flex-direction: row">
     <div style="display:flex;  align-items: center;">
         <p style="font-size:24px; text-align: center;">Come, share my fire, while I tell you about myself</p> 
     </div>  
-    <div style="display:flex;  align-items: center;>
+    <div>
         <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=790b7611vvhbqbekk03ujxfq3x5u10eo8rf7nnf3rtgm0vam&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="width:80%;">
-    </div>  
-    
+    </div> 
 </div>
 
 ## My name is Illia, Elías en español, Elijah in english. I am a Ukrainian🇺🇦 living in Spain🇪🇸.
