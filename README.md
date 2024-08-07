@@ -27,19 +27,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/illia-hulenko/) 
 
 # 📊 GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=illiahulenko&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=illiahulenko&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=illiahulenko&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dracula)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=illiahulenko&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=illiahulenko&show_icons=true" />
-</picture>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=illiahulenko&show_icons=true&theme=tokyonight)
 
