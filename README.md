@@ -4,7 +4,7 @@
 <p align="left" style="font-size:24px; text-align: center; align-items: center;">Come, share my fire, while I tell you about myself</p>
 
 
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ## My name is Illia, Elías en español, Elijah in english. I am a Ukrainian🇺🇦 living in Spain🇪🇸.<br><br>I am a **Full Stack Developer** with 2 years of experience working both independently and in teams. I have focused on web development with the following stack of technologies:
 
