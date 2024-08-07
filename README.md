@@ -5,7 +5,7 @@
 ### Come, share my fire, while I tell you about myself
 
 
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 ## My name is Illia, Elías en español, Elijah in english. I am a Ukrainian🇺🇦 living in Spain🇪🇸.<br><br><br>I am a **Full Stack Developer** with 2 years of experience working both independently and in teams. I have focused on web development with the following stack of technologies:
 <br>
@@ -32,7 +32,7 @@
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=illiahulenko&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: dracula)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=illiahulenko&show_icons=true"
@@ -41,3 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=illiahulenko&show_icons=true" />
 </picture>
 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=illiahulenko&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=illiahulenko&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=illiahulenko)](https://github.com/anuraghazra/github-readme-stats)
