@@ -1,10 +1,11 @@
 # <img src="https://media.giphy.com/media/ymwg2hvAKuuuiDN1x3/giphy.gif" width="100" />, stranger. Thanks for visiting my GitHub page🤩<br>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDh0Z2c1ZXF6N2NneXZyaXYxYWxodDd2NWNlOTFiOHB0OWRyYm1oOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" align="right">
-<p align="left" style="font-size:32px; text-align: center; align-items: center ">Come, share my fire, while I tell you about myself</p>
+<p align="left" style="font-size:24px; text-align: center; align-items: center;"><b>Come, share my fire, while I tell you about myself</b></p>
+
 
 <br><br><br><br><br><br><br>
-<br>
+<br><br>
 
 ## My name is Illia, Elías en español, Elijah in english. I am a Ukrainian🇺🇦 living in Spain🇪🇸.<br><br>I am a **Full Stack Developer** with 2 years of experience working both independently and in teams. I have focused on web development with the following stack of technologies:
 
