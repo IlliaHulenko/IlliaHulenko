@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/ymwg2hvAKuuuiDN1x3/giphy.gif" width="100" />, stranger. Thanks for visiting my GitHub page🤩<br>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDh0Z2c1ZXF6N2NneXZyaXYxYWxodDd2NWNlOTFiOHB0OWRyYm1oOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" align="right">
-<p align="left" style="font-size:24px; text-align: center; align-items: center ">Come, share my fire, while I tell you about myself</p>
+<p align="left" style="font-size:32px; text-align: center; align-items: center ">Come, share my fire, while I tell you about myself</p>
 
 <br><br><br><br><br><br><br>
 <br>
