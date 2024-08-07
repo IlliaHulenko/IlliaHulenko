@@ -1,12 +1,14 @@
 # <img src="https://media.giphy.com/media/ymwg2hvAKuuuiDN1x3/giphy.gif" width="100" />, stranger. Thanks for visiting my GitHub page🤩<br>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDh0Z2c1ZXF6N2NneXZyaXYxYWxodDd2NWNlOTFiOHB0OWRyYm1oOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" align="right">
-<p align="left" style="font-size:24px; text-align: center; align-items: center;">Come, share my fire, while I tell you about myself</p>
+
+### Come, share my fire, while I tell you about myself
 
 
 <br><br><br><br><br><br>
 
-## My name is Illia, Elías en español, Elijah in english. I am a Ukrainian🇺🇦 living in Spain🇪🇸.<br><br><br><br>I am a **Full Stack Developer** with 2 years of experience working both independently and in teams. I have focused on web development with the following stack of technologies:
+## My name is Illia, Elías en español, Elijah in english. I am a Ukrainian🇺🇦 living in Spain🇪🇸.<br><br><br>I am a **Full Stack Developer** with 2 years of experience working both independently and in teams. I have focused on web development with the following stack of technologies:
+<br>
 
 # Front End:
 
@@ -26,4 +28,16 @@
 
 # 📊 GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=illiahulenko&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=illiahulenko&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=illiahulenko&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=illiahulenko&show_icons=true" />
+</picture>
 
