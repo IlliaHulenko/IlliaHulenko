@@ -24,7 +24,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/illia-hulenko/) 
 
-## 🖥️  See my portfolio at [3d PORTFOLIO]([http://myapp.com](https://illiahulenko.github.io/3d_portfolio/))
+## 🖥️  See my portfolio at [(https://illiahulenko.github.io/3d_portfolio/)]
 
 # 📊 GitHub Stats:
 
