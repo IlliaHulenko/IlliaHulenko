@@ -7,7 +7,7 @@
 
 <br><br><br><br><br>
 
-## My name is Illia, Elías en español, Elijah in english. I am a Ukrainian🇺🇦 living in Spain🇪🇸.<br><br><br>I am a **Full Stack Developer** with 2 years of experience working both independently and in teams. I have focused on web development with the following stack of technologies:
+## My name is Illia, Elías en español, Elijah in english. I am a Ukrainian🇺🇦 living in Spain🇪🇸.<br><br><br>I am a **Full Stack Developer** with 3+ years of experience working both independently and in teams. I have focused on web development with the following stack of technologies:
 <br>
 
 # Front End:
@@ -19,10 +19,12 @@
 
 # Other:
 
-[Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)    ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)        ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)    ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)        ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/illia-hulenko/) 
+
+## 🖥️  See my portfolio at [3d PORTFOLIO]([http://myapp.com](https://illiahulenko.github.io/3d_portfolio/))
 
 # 📊 GitHub Stats:
 
