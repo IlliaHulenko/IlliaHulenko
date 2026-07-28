@@ -7,7 +7,7 @@
 
 <br><br><br><br><br>
 
-## My name is Illia, Elías en español, Elijah in english. I am a Ukrainian🇺🇦 living in Spain🇪🇸.<br><br><br>I am a **Full Stack Developer** with 3+ years of experience working both independently and in teams. I have focused on web development with the following stack of technologies:
+## My name is Illia, Elías en español, Elijah in english. I am a Ukrainian🇺🇦 living in Spain🇪🇸.<br><br><br>I am a **Full Stack Developer** with 5+ years of experience working both independently and in teams. I have focused on web development with the following stack of technologies:
 <br>
 
 # Front End:
